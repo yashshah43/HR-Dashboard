@@ -33,9 +33,9 @@ HR_Dashboard.twbx: The Tableau Workbook file containing all visualizations and c
 
 ## 🚀 Getting Started
 ### Prerequisites
-Tableau Desktop or Tableau Reader is required to open and view the .twbx file.
+Tableau Desktop or Tableau Public is required to open and view the .twbx file.
 
 ### Steps to Open
 Download the HR_Dashboard.twbx file from this repository.
-Open the file in Tableau Desktop or Tableau Reader.
+Open the file in Tableau Desktop or Tableau Public.
 Interact with the dashboards to explore the data.
